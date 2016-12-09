@@ -1,0 +1,84 @@
+#logo {
+	padding-top: 15%;
+	text-align: center;
+}
+
+.searchFormDiv {
+	text-align: center;
+	padding-top: 25px;
+}
+
+#inpSearch {
+	height: 3em;
+	width: 45%;	
+}
+
+
+#submit-buttons {
+	padding-top: 25px;
+}
+.sbutn {
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+	color: #757575;
+	font-size: 13px;
+	padding: 10px 16px 10px 16px;
+	margin: 11px 4px 11px 4px;
+	border-radius: 2px;
+}
+
+.sbutn:hover {
+	border: 1px solid #757575;
+	color: black;
+	background-color: #f6f6f6;
+}
+
+
+#navbar {
+	list-style-type: none;
+	float: right;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	padding-top: 0;
+}
+
+#s {
+	border-radius: 20px;
+}
+
+li {
+	display: inline;
+	vertical-align: middle;
+	margin-left: 15px;
+	padding-top: 0px;
+}
+
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+footer {
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #666;
+	position: absolute;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	background-color: #f2f2f2;
+
+}
+
+#f-half {
+	float: left;;
+}
+#s-half {
+	float: right;
+	margin-right: 15px;
+}
